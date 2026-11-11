@@ -1,0 +1,6 @@
+Reviews.csv
+Listings.csv
+*.csv
+__pycache__/
+.ipynb_checkpoints/
+*.mp4*.mp4
